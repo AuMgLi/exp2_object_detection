@@ -1,7 +1,7 @@
 import os
 import random
 
-train_val_percent = 0.9
+train_val_percent = 1.
 train_percent = 0.9
 
 xml_file_path = './data/Annotations'
